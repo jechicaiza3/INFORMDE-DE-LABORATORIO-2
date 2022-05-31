@@ -70,7 +70,7 @@ Estos resultados debemos transformar a miliamperios
 
 **5. VIDEO:**
 
-
+https://www.youtube.com/watch?v=Fi354tXXTak
 
 **6. CONCLUSIONES**
 
@@ -84,5 +84,3 @@ Estos resultados debemos transformar a miliamperios
 Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION.
 
 Khan. (2015).*Khan Academy* Las Leyes de Kirchhoff. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
-
-Link de la calculadora de Sistemas de Ecuaciones: http://es.onlinemschool.com/math/assistance/equation/combined_equations/
